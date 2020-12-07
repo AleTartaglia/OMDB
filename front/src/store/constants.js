@@ -1,0 +1,5 @@
+export const MOVIES_SEARCH = 'MOVIES_SEARCH'
+export const SINGLE_MOVIE = 'SINGLE_MOVIE'
+export const USER_LOGEADO = 'USER_LOGEADO'
+export const USER_LOGOUT = 'USER_LOGOUT'
+export const SHOW_FAVS = 'SHOW_FAVS'
