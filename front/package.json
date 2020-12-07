@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atralice/omdb.git"
+    "url": "git+https://github.com/AleTartaglia/omdb.git"
   },
   "author": "plataforma 5",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/atralice/omdb/issues"
   },
-  "homepage": "https://github.com/atralice/omdb#readme",
+  "homepage": "https://github.com/AleTartaglia/omdb.git#readme",
   "dependencies": {
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
