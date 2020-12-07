@@ -4,6 +4,7 @@
   "description": "api movie site",
   "main": "index.js",
   "scripts": {
+    "postinstall": "createdb omdb",
     "start": "nodemon server.js"
   },
   "repository": {
