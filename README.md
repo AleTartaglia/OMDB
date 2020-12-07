@@ -5,3 +5,6 @@ Proyecto individual que consistió en la creación de una plataforma utilizando 
 cd back- npm i- npm start
 
 cd front- npm i- npm start
+cd omdb && cd back && npm i && npm start && cd.. && cd front && npm i && npm run build
+
+la main comienza en /movies (y no en solo /)
